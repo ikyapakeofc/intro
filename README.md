@@ -21,22 +21,25 @@ I'm a passionate developer specializing in building clean, functional, and respo
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
 ---
 
-## 📂 Current Projects
-- **SMM Panel Integration**: Automated tools for social media marketing management.
-- **Logistics Trackers**: Custom API integrations for tracking Indonesian courier services.
-- **Automation Scripts**: WhatsApp AutoResponders and server management tools.
+## 📂 Featured Projects
+Dikelola melalui [yql.web.id](https://yql.web.id)
+
+### 🚀 [Project Name]
+*Deskripsi ringkas tentang projek utama anda di yql.web.id.*
+- **Tech:** Node.js, TailwindCSS, Vanilla JS
+- **Feature:** Integrasi API & Real-time tracking
+
+### 🛠️ SMM & Automation Tools
+*Sistem automasi untuk pengurusan media sosial dan pemasaran.*
+- **Tech:** Node.js, API Integration
+- **Feature:** Auto-responder & SMM Panel API
+
+### 📦 Logistic Tracker & Utility
+*Aplikasi web untuk semakan resi dan kos penghantaran seluruh Indonesia.*
+- **Tech:** HTML, TailwindCSS, RajaOngkir/Binderbyte API
 
 ---
-
-## 🤝 Connect with Me
-- **Project Branding**: IKY 404 PROJECT
-- **Focus**: Web Apps, API Integration, Server Security.
 
 *"Code is like humor. When you have to explain it, it’s bad."*
